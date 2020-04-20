@@ -1,5 +1,5 @@
 {
-	"name": "aimeos/ai-laravel",
+	"name": "buyingsquare/commerce-ext-laravel",
 	"description": "Laravel adapter for Aimeos web shops and e-commerce solutions",
 	"keywords": ["aimeos", "adapter", "laravel", "shop", "e-commerce"],
 	"homepage": "https://aimeos.org/Laravel",
@@ -18,7 +18,7 @@
 		"nyholm/psr7": "~1.2",
 		"composer/installers": "^1.0",
 		"laravel/framework": "~5.0||~6.0||~7.0",
-		"aimeos/aimeos-core": "dev-master"
+		"buyingsquare/commerce-core": "dev-master"
 	},
 	"require-dev": {
 		"phpunit/phpunit": "~7.0||~8.0"
